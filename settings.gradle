@@ -1,0 +1,4 @@
+rootProject.name = 'qrcode-generator'
+include 'qrcode-service'
+include 'qrcode-web-war'
+
